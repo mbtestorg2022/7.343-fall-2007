@@ -48,18 +48,177 @@ This course is graded pass/fail, and the grade depends on attendance, participat
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction and background | &nbsp; |
-| 2 | The high price of energy: Mitrochondrial production of ROS | &nbsp; |
-| 3 | Radical messengers: ROS as facilitators of cellular signaling | &nbsp; |
-| 4 | Hired assassins: ROS in anti-pathogen defense | &nbsp; |
-| 5 | Antioxidants: fighting the good fight | &nbsp; |
-| 6 | The free radical theory: ROS and aging | First paper due |
-| 7 | The root of the problem: oxidative damage in stem cell renewal | Topics for final paper due |
-| 8 | Balancing act: ROS effects on insulin resistance and diabetes | &nbsp; |
-| 9 | Breaking hearts: ROS in ischemic reperfusion injury | &nbsp; |
-| 10 | Brain drain: oxidative stress in neurodegenerative diseases | Introduction paragraph of final paper due |
-| 11 | Foot-soldiers of renegade cells: ROS in cancer and oncogenic transformation | &nbsp; |
-| 12 | Fighting fire with fire: more ROS or less ROS as therapeutic strategies? | Final paper due |
-| 13 | Final class presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and background
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The high price of energy: Mitrochondrial production of ROS
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Radical messengers: ROS as facilitators of cellular signaling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Hired assassins: ROS in anti-pathogen defense
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Antioxidants: fighting the good fight
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The free radical theory: ROS and aging
+{{< tdclose >}}
+{{< tdopen >}}
+First paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+The root of the problem: oxidative damage in stem cell renewal
+{{< tdclose >}}
+{{< tdopen >}}
+Topics for final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Balancing act: ROS effects on insulin resistance and diabetes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Breaking hearts: ROS in ischemic reperfusion injury
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Brain drain: oxidative stress in neurodegenerative diseases
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction paragraph of final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Foot-soldiers of renegade cells: ROS in cancer and oncogenic transformation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Fighting fire with fire: more ROS or less ROS as therapeutic strategies?
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Final class presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
