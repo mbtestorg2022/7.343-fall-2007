@@ -6,6 +6,7 @@ description: Lecture slides on ROS in ischemic reperfusion injury, myocardial in
   reduce I/R-induced inflammation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-343-the-radical-consequences-of-respiration-reactive-oxygen-species-in-aging-and-disease-fall-2007/da20f30723dbd65f6f3fb5c1b804d90e_lecture9.pdf
 file_type: application/pdf
+parent_uid: 679ed906-6c72-b734-bcad-24640b5c9e1a
 resourcetype: Document
 title: lecture9.pdf
 uid: da20f307-23db-d65f-6f3f-b5c1b804d90e
